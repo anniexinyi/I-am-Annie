@@ -1,6 +1,6 @@
 # Prenatal Risk Assessment Tool for Fetal Alcohol Spectrum Disorder
 **Project Lead:** Annie Xinyi Luo 
-**Timeline:** September 2025 – December 2025
+ | **Timeline:** September 2025 – December 2025
 
 ## 📌 Project Overview
 This project focused on clinical tool development, specifically creating a weighted scoring model for prenatal FASD risk assessment while maintaining high standards of data security.
