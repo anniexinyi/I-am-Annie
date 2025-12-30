@@ -26,8 +26,8 @@ Result-driven **Big Data Analytics** professional and **MS in Information** stud
 | :--- | :--- | :--- |
 | **SQL, Python, R, SPSS** | **REDCap (Validation & Design)** | **Bilingual: English & Chinese** |
 | **Machine Learning** | **HIPAA & EHR Interoperability** | **Project Management** |
-| **Power BI, Matplotlib, Plotly** | **Clinical Data Standardization** | **Bilingual Communication** |
-| **Advanced Excel & Statistics** | **Medical Literature Synthesis** | **Emotional Intelligence** |
+| **Power BI** | **Clinical Data Standardization** | **Teamwork** |
+| **Advanced Excel & Statistics** | **Medical Literature Evaluation** | **Leadership** |
 
 ---
 
