@@ -6,8 +6,19 @@
 ---
 
 ## 🚀 Professional Profile
-Result-driven **Big Data Analytics** professional and **MS in Information** candidate at the **University of Michigan** (GPA: 3.93/4.0). I specialize in bridging the gap between clinical data management and advanced analytics to drive evidence-based decision-making. With a foundational background in **Health Informatics** (GPA: 3.95/4.0), I offer expertise in **REDCap**, **Python/R**, **SQL**, and **Machine Learning** to optimize healthcare outcomes and data integrity.
+Result-driven **Big Data Analytics** professional and **MS in Information** student at the **University of Michigan Ann Arbor** (GPA: 3.93/4.0). I specialize in bridging the gap between clinical data management and advanced analytics to drive evidence-based decision-making. With a foundational background in **Health Informatics** (GPA: 3.95/4.0), I offer expertise in  **Python/R**, **SQL**, and **Machine Learning**, **REDCap** to optimize healthcare outcomes and data integrity.
 
+---
+
+## 🎓 Education
+* **Master of Science in Information - Big Data Analytics** | University of Michigan, Ann Arbor
+    * *Expected May 2027* | **GPA: 3.93/4.0**
+    * Relevant Coursework: Machine Learning, Statistics, Data Analysis, Programming in R & Python
+* **Bachelor of Science in Health Informatics** | University of Pittsburgh
+    * *May 2025* | **GPA: 3.95/4.0**
+    * Relevant Coursework: Python, R, and SQL, SPSS, Power BI, Research Methods, HIPAA, EHR Interoperability
+    * Honors: Dean's List (2021-2025)
+ 
 ---
 
 ## 🛠️ Technical Toolkit
