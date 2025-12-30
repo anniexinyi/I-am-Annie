@@ -7,7 +7,7 @@ CREATE TABLE Patient (
     PatientDepartment VARCHAR(100)
 );
 
-BULK INSERT Patient FROM 'D:\学习\Pittsburgh\capstone project\patient.csv'
+BULK INSERT Patient FROM '\Patient.csv'
 WITH(firstrow = 2, FIELDTERMINATOR = ',', ROWTERMINATOR = '0x0a')
 
 select * from Patient
@@ -456,4 +456,5 @@ BULK INSERT Nurse FROM 'D:\学习\Pittsburgh\capstone project\nurse.csv'
 WITH(firstrow = 2, FIELDTERMINATOR = ',', ROWTERMINATOR = '0x0a')
 
 select * from Nurse
+
 
