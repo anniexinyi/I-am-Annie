@@ -82,12 +82,3 @@ Result-driven **Big Data Analytics** professional and **MS in Information** stud
 * **Applied inferential statistical analyses**, including Wilcoxon-Mann-Whitney tests and one-way ANOVA.
 
 ---
-
-## 🎓 Education
-* **Master of Science in Information - Big Data Analytics** | University of Michigan, Ann Arbor
-    * *Expected May 2027* | **GPA: 3.93/4.0**
-    * Relevant Coursework: Machine Learning, Statistics, Data Analysis, Programming in R & Python
-* **Bachelor of Science in Health Informatics** | University of Pittsburgh
-    * *May 2025* | **GPA: 3.95/4.0**
-    * Relevant Coursework: Python, R, and SQL, SPSS, Power BI, Research Methods, HIPAA, EHR Interoperability
-    * Honors: Dean's List (2021-2025)
