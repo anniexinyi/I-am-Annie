@@ -1,8 +1,3 @@
-
-
-
-
-
 CREATE TABLE Patient (
     P_ID INT PRIMARY KEY,
     PatientName VARCHAR(100),
@@ -461,3 +456,4 @@ BULK INSERT Nurse FROM 'D:\学习\Pittsburgh\capstone project\nurse.csv'
 WITH(firstrow = 2, FIELDTERMINATOR = ',', ROWTERMINATOR = '0x0a')
 
 select * from Nurse
+
