@@ -1,15 +1,15 @@
-# Healthcare Dashboard for Executive Decision-Making
-**Project Lead:** Annie Xinyi Luo
-**Timeline:** January 2025 – May 2025 
+# Prenatal Risk Assessment Tool for Fetal Alcohol Spectrum Disorder
+**Project Lead:** Annie Xinyi Luo 
+**Timeline:** September 2025 – December 2025
 
 ## 📌 Project Overview
-This project addressed the challenge of data fragmentation in hospital management. I designed and constructed a **centralized healthcare dashboard** to facilitate **evidence-based decision-making** for hospital executives. 
+This project focused on clinical tool development, specifically creating a weighted scoring model for prenatal FASD risk assessment while maintaining high standards of data security.
 
 ## 🛠️ Technical Solution
-* **Architectural Design:** Utilized **draw.io** to blueprint the user interface and data flow tailored for executive stakeholders.
-* **Data Pipeline:** Integrated **SQL** and **Excel** to extract, clean, and load complex clinical datasets, ensuring 100% data integrity.
-* **Interactive Analytics:** Developed dynamic visualizations using **Python** (Matplotlib and Plotly) to monitor institutional performance metrics.
+* **Algorithm Engineering:** Translated complex clinical guidelines into a weighted scoring algorithm and functional data model with one-decimal precision.
+* **Security & Privacy:** Engineered a password protection system and restricted data processing to **local-only environments** to prevent potential data breaches.
+* **Data Integrity:** Developed **automated input verification** to ensure data consistency and prevent errors caused by missing clinical information.
 
 ## 💡 Impact
-* Provided leaders with a tool to interpret hospital performance trends at a glance.
-* Standardized raw backend data into actionable strategic insights.
+* Delivered a high-precision tool for reliable FASD risk evaluation.
+* Established a privacy-first framework for handling sensitive prenatal information.
