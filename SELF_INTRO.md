@@ -28,16 +28,22 @@ Result-driven **Big Data Analytics** professional and **MS in Information** cand
 * **Enhanced data integrity** by mapping, validating, and correcting clinical data within **REDCap**.
 * **Optimized research workflows** by designing custom REDCap questionnaires based on complex patient data structures.
 
+### **Editorial Assistant | Aging and Health Research**
+*Shanghai, CN | June 2025 – August 2025*
+* **Composed research summaries** for global digital platforms, leveraging bilingual skills to translate findings for a wider audience.
+* **Managed digital outreach** by launching the journal’s Rednote account and overseeing the WeChat engagement strategy.
+
+### **Data Analyst | THOHT** 
+*Shanghai, CN | June 2024 – August 2024* 
+* **Extracted and organized** health data statistics from pathological research papers into Excel to support data-driven insights. 
+* **Streamlined peer review processes** by sorting professional articles into a centralized database for research conferences. 
+* **Evaluated clinical treatment plans** through comparative analysis and presented optimal strategies to executive leadership.
+
 ### **Clinical Research Assistant | Eisai**
 *Shanghai, CN | February 2024 – June 2024*
 * **Identified high-integrity medical publications** by applying advanced filtering techniques across global academic databases.
 * **Maintained 100% data consistency** by managing a comprehensive research database for clinical record-keeping.
 * **Synthesized complex findings** into instructional guidelines for treatment plans to support data-driven clinical decision-making.
-
-### **Editorial Assistant | Aging and Health Research**
-*Shanghai, CN | June 2025 – August 2025*
-* **Composed research summaries** for global digital platforms, leveraging bilingual skills to translate findings for a wider audience.
-* **Managed digital outreach** by launching the journal’s Rednote account and overseeing the WeChat engagement strategy.
 
 ---
 
@@ -58,6 +64,11 @@ Result-driven **Big Data Analytics** professional and **MS in Information** cand
 *Project Lead | Jan 2025 – May 2025*
 * **Built interactive dashboards** with **Plotly and Matplotlib** to assist leaders in interpreting real-time hospital performance.
 * **Ensured 100% data integrity** by utilizing SQL and Excel to clean and load complex clinical datasets.
+
+### 🚬 **Retrospective Study on Tobacco Use Trends**
+*Project Lead | September 2024 – December 2024 | Pittsburgh, PA* 
+* **Analyzed 2010–2017 tobacco use trends** among U.S. students using a retrospective SPSS study.
+* **Applied inferential statistical analyses**, including Wilcoxon-Mann-Whitney tests and one-way ANOVA.
 
 ---
 
