@@ -1,7 +1,6 @@
 # XINYI (ANNIE) LUO
 ### **Big Data Analytics | Health Informatics | Clinical Data Analyst**
-**Ann Arbor, MI** | **412-652-4183** | **anniexinyiluo@outlook.com**
-[**LinkedIn Profile**](https://www.linkedin.com/in/xinyi-luo-1344a6291/)
+**Ann Arbor, MI** | **412-652-4183** | **anniexinyiluo@outlook.com** | [**LinkedIn Profile**](https://www.linkedin.com/in/xinyi-luo-1344a6291/)
 
 ---
 
