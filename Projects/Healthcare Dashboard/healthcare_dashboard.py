@@ -3,14 +3,14 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from datetime import datetime
 import plotly.express as px
-patient_df = pd.read_csv('D:/学习/Pittsburgh/capstone project/patient.csv')
-labtest_df = pd.read_csv('D:/学习/Pittsburgh/capstone project/Labtest.csv')
-test_df = pd.read_csv('D:/学习/Pittsburgh/capstone project/Test.csv')
-prescription_df = pd.read_csv('D:/学习/Pittsburgh/capstone project/Prescription.csv')
-drug_df = pd.read_csv('D:/学习/Pittsburgh/capstone project/Drug.csv')
-admission_df = pd.read_csv('D:/学习/Pittsburgh/capstone project/Admission.csv')
-room_df = pd.read_csv('D:/学习/Pittsburgh/capstone project/Room.csv')
-history_df = pd.read_csv('D:/学习/Pittsburgh/capstone project/Patienthistory.csv')
+patient_df = pd.read_csv('/patient.csv')
+labtest_df = pd.read_csv('/Labtest.csv')
+test_df = pd.read_csv('/Test.csv')
+prescription_df = pd.read_csv('/Prescription.csv')
+drug_df = pd.read_csv('/Drug.csv')
+admission_df = pd.read_csv('/Admission.csv')
+room_df = pd.read_csv('/Room.csv')
+history_df = pd.read_csv('/Patienthistory.csv')
 labtest_merged = labtest_df.merge(patient_df, on='P_ID', how='left')
 import math
 # Filter positive and negative tests
