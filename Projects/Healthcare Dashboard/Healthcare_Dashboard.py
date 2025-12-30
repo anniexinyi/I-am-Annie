@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from datetime import datetime
 import plotly.express as px
-patient_df = pd.read_csv('/patient.csv')
+patient_df = pd.read_csv('/Patient.csv')
 labtest_df = pd.read_csv('/Labtest.csv')
 test_df = pd.read_csv('/Test.csv')
 prescription_df = pd.read_csv('/Prescription.csv')
