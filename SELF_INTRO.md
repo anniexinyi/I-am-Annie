@@ -67,6 +67,7 @@ Result-driven **Big Data Analytics** professional and **MS in Information** cand
     * Relevant Coursework: Machine Learning, Statistics, Data Analysis, Programming in R & Python
 * **Bachelor of Science in Health Informatics** | University of Pittsburgh
     * *May 2025* | **GPA: 3.95/4.0**
+    * Relevant Coursework: Python, R, and SQL, SPSS, Power BI, Research Methods, HIPAA, EHR Interoperability
     * Honors: Dean's List (2021-2025)
 
 ---
@@ -74,4 +75,3 @@ Result-driven **Big Data Analytics** professional and **MS in Information** cand
 ### **Let's Connect!**
 * **Email:** [anniexinyiluo@outlook.com](mailto:anniexinyiluo@outlook.com)
 * [**LinkedIn Profile**](https://www.linkedin.com/in/xinyi-luo-1344a6291/)
-* [**Download My Full Resume**](assets/Resume_Xinyi_Luo.pdf)
